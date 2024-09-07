@@ -16,11 +16,11 @@ mod page : https://steamcommunity.com/sharedfiles/filedetails/?id=3320873214
 
 CREDITS
 
-Ogam : For Sprite Artwork
-"Dia" Two Wholes Halved : descriptions.
-Robfal2 : C# For Genes.
-AlexisPopcorn : C# For Genes
-cyanobot : 1.5 update
+- Ogam : For Sprite Artwork
+- "Dia" Two Wholes Halved : descriptions
+- Robfal2 : C# For Genes
+- AlexisPopcorn : C# For Genes
+- cyanobot : 1.5 update
 
 SCREENSHOTS 
 
