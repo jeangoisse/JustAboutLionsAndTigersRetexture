@@ -12,6 +12,16 @@ This is quite decent for such an upscale I think. Impact on ram is minimal.
 
 Tools used : waifu2x-GUI, pinga image compressor.
 
+mod page : https://steamcommunity.com/sharedfiles/filedetails/?id=3320873214
+
+CREDITS
+
+Ogam : For Sprite Artwork
+"Dia" Two Wholes Halved : descriptions.
+Robfal2 : C# For Genes.
+AlexisPopcorn : C# For Genes
+cyanobot : 1.5 update
+
 SCREENSHOTS 
 
 ![before1](https://github.com/user-attachments/assets/63628777-9c04-4f54-8916-86d4849b9d3e)
