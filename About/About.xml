@@ -25,6 +25,11 @@ Mod would not be possible without the efforts of the amazing~
 			<displayName>RimWorld - Biotech</displayName>
 			<steamWorkshopUrl>https://store.steampowered.com/app/1826140/RimWorld__Biotech/</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>JA.LionsandTigers</packageId>
+			<displayName>Just About: Lions And Tigers (Continued)</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3320873214</steamWorkshopUrl>
+		</li>		
 	</modDependencies>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
