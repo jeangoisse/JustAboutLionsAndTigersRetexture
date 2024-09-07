@@ -1,4 +1,4 @@
-Just About Lions and Tigers (Continued) AI Retexture
+#### Just About Lions and Tigers (Continued) AI Retexture
 
 As the title says, this is an HD retexture for this great xenotype mod. The original textures were 128px and kinda blurry. 
 
